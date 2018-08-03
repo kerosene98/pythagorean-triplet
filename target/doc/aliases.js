@@ -1,0 +1,11 @@
+var ALIASES = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
+ALIASES['pythagorean_triplet'] = {};
